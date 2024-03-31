@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "The risk profile is not showing correct allocation",
+      "answer": "If the output is showing 0% for everything, check to see if you have updated the client's risk profile by changing it and then click the UPDATE button."
+    },
+    {
+      "question": "How do I set up 2-factor authentication",
+      "answer": "When you are logged in, click on the user id name next to the bell icon on the header of your Xplan site and then select My Preferences. Then from here, look to the left navigation and select Account -> Two-factor authentication"
+    },
+    {
+      "question": "Issues with Macquarie Datafeed ESI",
+      "answer": "Please note that the Macquarie ESI resets every year and you may need to have a calendar update to remind you, for more information go to https:\/\/beta.macquarie.com.au\/wrap\/resources\/help\/advisers\/online-access-and-authentication\/access-and-support\/esi-details-and-data-feeds.html"
+    },
+    {
+      "question": "How do I set up 2fa",
+      "answer": "When you are logged in, click on the user id name next to the bell icon on the header of your Xplan site and then select My Preferences. Then from here, look to the left navigation and select Account -> Two-factor authentication"
+    },
+    {
+      "question": "How do I reset my password",
+      "answer": "When you are logged in, click on the user id name next to the bell icon on the header of your Xplan site and then select My Preferences. Then from here, look to the left navigation and select Account -> Change Password"
+    },
+    {
+      "question": "My product is not listed in Xplan or the APL",
+      "answer": "There is only one setting with editing products in XPLAN and it is not accessible to all individual users. Allocating it to individuals on a group site means that we run the risk that users accidentally edit products that others are using and delete things inadvertently, this has occurred multiple times with substantial impact and so it no longer available. \n\nIf there are a couple of products (2-5) that you regularly use that are unlisted you are welcome to send the details through to be added, however we only update the asset allocation, pricing, and costs of these once or twice a year. It is recommended to ask the fund manager to add the data via the FundData platform and maintain up-to-date information."
+    },
+    {
+      "question": "Macquarie cash account (CMA) datafeed does not add up",
+      "answer": "It is a known and longstanding issue for Macquarie cash accounts may not match in XPLAN. This is because Macquarie only sends three years worth of data (a rolling three-year period which moves every day). Transaction data for three years prior drops off and cannot be reinstated as Mac no longer sends it. You need to add a purchase (we call it a balancing transaction) to bring it into line with the correct balance."
+    },
+    {
+      "question": "My Entity (SMSF or Trust or Company) is not showing through to the SOA or ROA",
+      "answer": "Did you check to see if the wealthsolver proposal (right-hand button when creating a proposal) is set to JOINT and not the Entity name? As the entity name is dynamic it cannot be coded for this. If you do not have this option for JOINT for the entity modeling, please contact support@practicedynamix.com.au"
+    },
+    {
+      "question": "How do I set up my security questions",
+      "answer": "When you are logged in, click on the user id name next to the bell icon on the header of your Xplan site and then select My Preferences. Then from here, look to the left navigation and select Account -> Security questions"
+    },
+    {
+      "question": "How do I set up my email signature",
+      "answer": "When you are logged in, click on the user id name next to the bell icon on the header of your Xplan site and then select My Preferences. Then from here, look to the left navigation and select Account -> Signature options. From here you have the option to select a tick box to set your signature (Use Personal Signature)"
+    },
+    {
+      "question": "How to export client data into CSV",
+      "answer": "1. Go to the client search screen at the top right and make sure this is set to client and hit enter 2. filter the client list to show the clients you want to see (change the user group, category, status) 3. Go to FUNCTIONS -> EXPORT DATA 4. Here you can add fields in that you want to show under entity fields (example might be gender, Adviser, Opt-In status) 5. You can also add in ENTITY LIST ITEMS which will generate a new CSV file with the data, this may include Insurance, Superannuation, Annuities, Liabilities. 6. Hit EXPORT on the bottom right when you have selected all relevant details."
+    },
+    {
+      "question": "How do I create Xport Reports",
+      "answer": "1. Create a search function on who you want to send the report to. Go to the client search bar and select ADVANCED -> NEW. Add details and make sure you save. 2. Go to the COG button on the left, select INTEGRATION -> XPORT. 3. Add in relevant details, the DATA SOURCES you will need to add in portfolios if you want it to show balances or account names\/ownership (this allows you to show the data fields). Then go to COLUMNS and add you can search here what headings and data will show for your report. If you can't find something, it is either (a) Not available or (b) listed under somewhere else. You can schedule these reports to be sent to you via Scheduler (type in How to use Scheduler)."
+    },
+    {
+      "question": "How to set up Scheduler",
+      "answer": "1. Go to the COG button on the left, select SITE -> SCHEDULER 2. Click Add, then enter all details under Details and Recurrence tab. 3. The Steps tab can be complicated depending on your conditioning - make sure you test on a client\/user with an email you can access so that you can see the output. 4. When ready, you can enable when ready or edit by clicking the down arrow in the ACTION column."
+    },
+    {
+      "question": "How to File Note",
+      "answer": "More information can be found here https:\/\/www.xplanexpert.com.au\/forum\/client-focus\/training-all-about-file-notes"
+    },
+    {
+      "question": "How to run a report",
+      "answer": "More information can be found here PDF: https:\/\/131a6df6-b2e7-4cd1-9247-7d71d1e660b4.usrfiles.com\/ugd\/d15d7d_9b787240b3be4e60949c13329fa39bd7 Video: https:\/\/www.xplanexpert.com.au\/forum\/client-focus\/xplan-training-video-searching-and-running-reports"
+    },
+    {
+      "question": "How do I add\/remove a partner",
+      "answer": "On a single client go to Key Details\/Client Details -> From here there is the client name within the page (top middle, to the right of the Menu section) with a dropdown arrow where you will need to click. More information can be found here: www.xplanexpert.com.au\/post\/adding-removing-a-partner-entity "
+    },
+    {
+      "question": "Merging a duplicate client",
+      "answer": " You can merge the client by going to the following area from the client list (Functions>Merge client) and searching for the clients you wish to merge. Then merge the source details of the client into the target client record. This will merge any client focus data but will not merge file notes or portfolio. For more information go to https:\/\/www.xplanexpert.com.au\/forum\/client-focus\/merging-a-a-duplicate-client"
+    },
+    {
+      "question": "Managing a deceased client",
+      "answer": "1. Change the deceased person's entity status to ‘Deceased’ 2. You should then unlink the deceased person leaving the remaining client as an ‘active’ profile. To do this go to Key Details>Click the client name at the top of the page and select “Purge Partner options”> next select Separate and then you would choose either 'Duplicate', 'Share' or 'Separate' to transfer a copy of file notes over depending on your preference for how the file notes are saved. 3. For more information and screenshots go to https:\/\/www.xplanexpert.com.au\/forum\/client-focus\/managing-a-deceased-client "
+    },
+    {
+      "question": "Modify all feature in Xplan",
+      "answer": "From the client search bar, you should select the relevant clients that you want to utilize the modify feature for. Once you have selected your clients, go to FUNCTIONS -> MODIFY ALL. Then you will have a function to change details for all clients. Video explanation can be found here - https:\/\/www.xplanexpert.com.au\/forum\/client-focus\/video-modify-all"
+    },
+    {
+      "question": "How to reset FDS disclosure dates",
+      "answer": "To reset the disclosure date, navigate to the client and select Menu > Service > Reviews > Edit. Scroll down to the ‘Annual Disclosure & Opt-In’ section and update the year."
+    },
+    {
+      "question": "How do i add shares or investments into IPS / Portfolio?",
+      "answer": "You would need to go to Portfolio->admin->cash and accounts and add a portfolio account (I suggest you call it Direct shares) 2. Next you exit this page back to Portfolio>position and select Add>purchase and ensure you have selected the ‘shares’ portfolio account 3. It will open a transaction where you will add the Investment code, exchange, transaction date, number of units etc. If you do not know the date, you will have to pick something otherwise the shares will not appear. Ensure the settlement date is not in the future 4. Then save and close. I would also recommend undertaking this learning resource if you would like to understand more about this area in XPLAN https:\/\/learningcentre.iress.com\/blocks\/androgogic_catalogue\/view.php?id=682"
+    },
+    {
+      "question": "My portfolio IPS performance is not correct",
+      "answer": "The issue here may be under the Transactions of the underlying asset. It could be a corporate action (such as a spin off or acquisition) that is being counted to the performance. Go to the transaction page of IPS and review the transactions made during this period. If you cannot view the issue please contact support@practicedynamix.com.au"
+    },
+    {
+      "question": "?????????",
+      "answer": "??????????????????"
+    },
+    {
+      "question": "?????????",
+      "answer": "??????????????????"
+    },
+    {
+      "question": "?????????",
+      "answer": "??????????????????"
+    }
+  ]
+}
